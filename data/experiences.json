@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Graduate Teaching Assistant",
+    "company": "University of Florida",
+    "location": "Gainesville, Fl",
+    "start": "Aug 2022",
+    "end": "Present",
+    "description": "I am tasked with assisting with setting exams and assignments. My main task is grading graduate and undergraduaet levels of DBMS.",
+    "image": "/experience_images/uf.png"
+  },
+  {
+    "title": "Software Engineering Intern",
+    "company": "Honeywell",
+    "location": "Atlanta, GA",
+    "start": "May 2022",
+    "end": "August 2022",
+    "description": "I worked on multiple projects, the main one was a event trigered custom report made from nightly build data. This included REST API data retrival, processing and graphing for over 80,000 tests which is about 8GB of data. Data was graphed accross devices, tests and versions of software to get a general baseline and see improvements and deviations. I also worked on 2 other projects involving API testing and writing a Grafana custom pluggin for Elk data.",
+    "image": "/experience_images/honeywell.jpg"
+  },
+  {
+    "title": "Vulnerability Assessment Team Intern",
+    "company": "InventOnUs",
+    "location": "Pune, India",
+    "start": "June 2020",
+    "end": "August 2020",
+    "description": "InventOnUs is a leading security management company,providing various Compliances & Certifications. I was assigned to the HIPPA compliance team, here I performed attacks like DoS, DDoS, SQL Injection, Man-in-the-Middle, etc. I also provided a risk assessment and remediations report based on the compliance requirements, vulnerability scanning, tests",
+    "image": "/experience_images/inventonUs.jpg"
+  },
+  {
+    "title": "Product Building Intern",
+    "company": "IoTIoT",
+    "location": "Pune, India",
+    "start": "October 2019",
+    "end": "December 2019",
+    "description": "Joined the startup incubator and accelerator program as a product manager, going through phases of ideation, product definition, prototyping, detailed design, validation & testing and deployment. I tasked with developing a viable and scalable market ready intelligent Battery Management System",
+    "image": "/experience_images/IotIot.jpg"
+  },
+  {
+    "title": "Automation Intern",
+    "company": "NHP Power Systems",
+    "location": "Pune, India",
+    "start": "June 2019",
+    "end": "August 2019",
+    "description": "Automated the testing of products from a manual time of 20min ot 2mins using automation. This increased production by 90%, hence increasing profit by 50,000 USD",
+    "image": "/experience_images/nhp.jpg"
+  }
+]

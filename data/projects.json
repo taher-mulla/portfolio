@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Gator Marketplace",
+    "description": "Full stack web app to buy/sell products, to gain hands on experience in SDLC, Git. I acted as a technical project manager reviewing issues, assigning issues over 4 sprints.",
+    "image": "project_images/gator.png",
+    "href": "https://github.com/rachitrathi98/Gator-Marketplace.git",
+    "stack": [
+      "ReactJS",
+      "JavaScript",
+      "HTML/CSS",
+      "Cypress Testing",
+      "StripePayment API",
+      "Bootstrap"
+    ]
+  },
+  {
+    "title": "California Vehicle Collision Analysis",
+    "description": "Designed and developed a custom data visulization tool showing our stake honders the analysis of collision data(20 million tupples).",
+    "image": "project_images/cali.png",
+    "href": "https://github.com/taher-mulla/California-Traffic-Collisions-Data-Analysis",
+    "stack": [
+      "Python",
+      "Mathplotlib",
+      "Data Analytics",
+      "SQL",
+      "Oracle",
+      "mpld3",
+      "ReactJS",
+      "JavaScript",
+      "HTML/CSS"
+    ]
+  },
+  {
+    "title": "P2P Application(BitTorrent clone)",
+    "description": "P2P data transfer system, scalable to thousands of nodes, exponentially increasing the data transfer speed using an innovative decentralized transfer system.",
+    "image": "project_images/p2p.png",
+    "href": "https://github.com/taher-mulla/P2P-File-Sharing",
+    "stack": ["C++", "Protobuf", "GoogleTest", "CMake"]
+  }
+]

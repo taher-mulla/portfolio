@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Languages",
+    "items": ["Python", "Java", "C++", "C", "Javascript"]
+  },
+  {
+    "title": "Website Development",
+    "items": ["JavaScript", "React", "HTML", "CSS", "Bootstrap", "Flask"]
+  },
+  {
+    "title": "Databases",
+    "items": ["SQL", "MySQL", "Oracle", "Firebase"]
+  },
+  {
+    "title": "Testing/Test Automation",
+    "items": [
+      "Robot Framework",
+      "Selenium",
+      "API VAPI",
+      "Automation Testing",
+      "Postman",
+      "Wireshark",
+      "NMap"
+    ]
+  },
+  {
+    "title": "Tools",
+    "items": [
+      "Postman",
+      "NMap",
+      "Wireshark",
+      "PyCharm",
+      "VS Code",
+      "IntelliJ ",
+      "Grafana",
+      "Elk",
+      "Kabana",
+      "Jupyter Notebook"
+    ]
+  },
+  {
+    "title": "Other Tools and Services",
+    "items": [
+      "Docker",
+      "Git",
+      "Bamboo",
+      "CIDI",
+      "BitBucket",
+      "Jira",
+      "Confluence"
+    ]
+  }
+]
